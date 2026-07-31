@@ -17,7 +17,7 @@ NPB is a small programming language that compiles into JavaScript. The goal of t
 ### NPB
 
 ```npb
-val name = "Alexandr";
+val name = "Olexandr";
 var age = 16;
 
 writeL("Hello!");
@@ -28,7 +28,7 @@ writeL("I'm ${age} years old");
 ### JavaScript output
 
 ```js
-const name = "Alexandr";
+const name = "Olexandr";
 let age = 16;
 
 console.log("Hello!");
