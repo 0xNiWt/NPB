@@ -53,7 +53,7 @@ npm install
 ## ⚙️ Compile
 
 ```bash
-npm run compile -- app.npb
+npm run compile -- examples/app.npb
 ```
 
 ---

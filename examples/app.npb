@@ -1,0 +1,2 @@
+val lang_name = "NPB";
+writeL("Hello World! I'm: ${lang_name}");
