@@ -1,0 +1,14 @@
+{
+  "name": "npb-compiler",
+  "version": "0.0.3",
+  "description": "Compiler for the NPB programming language.",
+  "main": "compiler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "node compiler.js"
+  },
+  "keywords": [],
+  "author": "Alexandr Mykhailov",
+  "license": "ISC",
+  "type": "module"
+}

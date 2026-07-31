@@ -1,0 +1,10 @@
+val lang_name = "NPB";
+val name = "Alexandr";
+var pi = 3.14;
+var age = 19;
+writeL("Hello World!");
+writeL("I'm:");
+writeL(lang_name);
+writeL("Я: ${name}");
+writeL("Мне: ${age}");
+writeL("Число ПИ: ${pi}");

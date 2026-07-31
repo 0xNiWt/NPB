@@ -1,0 +1,10 @@
+const lang_name = "NPB";
+const name = "Alexandr";
+let pi = 3.14;
+let age = 19;
+console.log("Hello World!");
+console.log("I'm:");
+console.log(lang_name);
+console.log(`Я: ${name}`);
+console.log(`Мне: ${age}`);
+console.log(`Число ПИ: ${pi}`);
